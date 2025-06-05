@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain-google-genai
+langchain-community
+pycryptodome
+google-api-python-client
+google-auth
+gtts
